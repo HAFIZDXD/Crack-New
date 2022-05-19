@@ -20,6 +20,6 @@ https://github.com/HAFIZDXD/Crack-New
 
 ls (l kecil)
 
-cd Crackk
+cd Crack-New
 
 python Crackk.py
