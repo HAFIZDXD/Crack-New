@@ -15,3 +15,11 @@ pip install futures
 
 pip install Rich
 
+git clone 
+https://github.com/HAFIZDXD/Crack-New
+
+ls (l kecil)
+
+cd Crackk
+
+python Crackk.py
